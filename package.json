@@ -1,0 +1,26 @@
+{
+  "name": "supermanfix",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "better-scroll": "^1.15.1",
+    "clipboard": "^2.0.4",
+    "core-js": "^2.6.5",
+    "font-awesome": "^4.7.0",
+    "mint-ui": "^2.2.13",
+    "v-distpicker": "^1.2.0",
+    "vue": "^2.6.6",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}

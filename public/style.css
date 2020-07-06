@@ -1,0 +1,12 @@
+@charset "UTF-8";
+*{margin:0;padding:0;border:0;}
+body{background: #f6f6f6;font:100% "microsoft yahei","Helvetica Neue"; }
+ul,li,ol{list-style:none;}
+a{text-decoration:none;}
+input,button{-webkit-appearance: none; -moz-appearance: none; -o-appearance: none; appearance: none;background-color:transparent;border:0;border-radius:0;vertical-align:middle;outline:none;}
+table { border-collapse:collapse; border-spacing:0; }
+textarea{font-family:"microsoft yahei","Helvetica Neue"; }
+::-webkit-input-placeholder {color:#949494;} /* WebKit, Blink, Edge */
+:-moz-placeholder {color:#949494;}/* Mozilla Firefox 4 to 18 */
+::-moz-placeholder { color:#949494;}/* Mozilla Firefox 19+ */
+:-ms-input-placeholder {color:#949494;}/* Internet Explorer 10-11 */
